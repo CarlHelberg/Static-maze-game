@@ -1,0 +1,17 @@
+.canvas{
+	border-style:groove;
+	min-height:50vh;
+	position:relative;
+	width:100%;
+}
+
+
+body{
+	background-color:#EEEEEE;
+}
+
+
+#gameTitle{
+border-color: red;
+}
+
